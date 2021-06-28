@@ -25,7 +25,7 @@ const About = () => {
                 <div className="row h-650 alignCenter">
                     <div className="col-6">
                         <div className="about__img">
-                            <img src="https://themebing.com/html/amike/assets/images/me-01-alt.png" alt="man" />
+                            <div className="img_man" ></div>
                         </div>
                     </div>
                     <div className="col-6">
